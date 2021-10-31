@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to collab and work on projects as a team
 
 ### Connect with me:
