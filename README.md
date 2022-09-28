@@ -1,4 +1,4 @@
-### Hi there, I'm eeshwar - aka darkboi3301(old github account is changed to an official account for a project i am working on)
+### Hi there, I'm eeshwar - aka darkboi3301
 ## I'm a Student, Developer, and a quick learning Nerd!!
 
 - 🌱 I’m currently Trying to learn everything 🤣
