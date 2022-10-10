@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to collab and work on projects as a team
 
+<script src="https://tryhackme.com/badge/729352"></script>
+
 ### Connect with me:
 
 [<img align="left" alt="darkboi3301 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
