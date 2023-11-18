@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eeshwar</h1>
+<h1 align="center">Hi 👋, I'm Eeshwar Sivasankar</h1>
 <h3 align="center">A passionate wannabe developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkboi3301&label=Profile%20views&color=0e75b6&style=flat" alt="darkboi3301" /> </p>
